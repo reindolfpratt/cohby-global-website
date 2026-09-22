@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <img src={logo} alt="Cohby Consult" className="h-20 w-auto mb-4" />
+            <img src={logo} alt="Cohby Global" className="h-20 w-auto mb-4" />
             <p className="text-primary-foreground/80 text-sm">
               Your trusted partner in achieving global education excellence. Transforming academic dreams into reality since inception.
             </p>
@@ -48,7 +48,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-2">
                 <Mail className="w-4 h-4 mt-0.5 flex-shrink-0 text-secondary" />
-                <span className="text-primary-foreground/80">info@cohbyconsult.com</span>
+                <span className="text-primary-foreground/80">info@cohbyglobal.com</span>
               </li>
               <li className="flex items-start space-x-2">
                 <Phone className="w-4 h-4 mt-0.5 flex-shrink-0 text-secondary" />
@@ -74,7 +74,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <p className="text-sm text-primary-foreground/70 mb-4 md:mb-0">
-              © {new Date().getFullYear()} Cohby Consult. All rights reserved.
+              © {new Date().getFullYear()} Cohby Global. All rights reserved.
             </p>
             <div className="flex space-x-4">
               <a

@@ -67,7 +67,7 @@ const AboutUs = () => {
             {/* Introduction */}
             <div className="bg-card border border-border rounded-2xl p-8 md:p-12 shadow-custom-md mb-16">
               <p className="text-lg text-foreground/90 leading-relaxed mb-6">
-                Cohby Consult is a student and professional recruitment consultancy based in London and Liverpool that offers support for those looking to get into education and the profession. We understand the difficulties that come with the admission process and aim to help every student who walks through our doors.
+                Cohby Global is a student and professional recruitment consultancy based in London and Liverpool that offers support for those looking to get into education and the profession. We understand the difficulties that come with the admission process and aim to help every student who walks through our doors.
               </p>
               <p className="text-lg text-foreground/90 leading-relaxed mb-6">
                 Whether it be choosing a course, or an institution, starting an application or simply understanding the requirements, we offer our services to simplify the process. We have been successful in recruiting home and international students and professionals from diverse backgrounds, enrolling them on suitable universities and jobs that meet their personal and individual needs.

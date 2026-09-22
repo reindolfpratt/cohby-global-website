@@ -34,7 +34,7 @@ const TermsOfService = () => {
                 1. Acceptance of Terms
               </h2>
               <p>
-                By accessing or using the website operated by Cohby Consult
+                By accessing or using the website operated by Cohby Global
                 ("we," "us," or "our"), you agree to be bound by these Terms of
                 Service. If you disagree with any part of these terms, you may
                 not access the service.
@@ -46,7 +46,7 @@ const TermsOfService = () => {
                 2. Description of Service
               </h2>
               <p>
-                Cohby Consult provides education consulting services, including
+                Cohby Global provides education consulting services, including
                 but not limited to university application assistance, program
                 guidance, and study abroad counseling. We act as an intermediary
                 between students and educational institutions.
@@ -72,7 +72,7 @@ const TermsOfService = () => {
               <p>
                 The Service and its original content, features, and
                 functionality are and will remain the exclusive property of
-                Cohby Consult and its licensors. The Service is protected by
+                Cohby Global and its licensors. The Service is protected by
                 copyright, trademark, and other laws of both the United States
                 and foreign countries.
               </p>
@@ -84,7 +84,7 @@ const TermsOfService = () => {
               </h2>
               <p>
                 Our Service may contain links to third-party web sites or
-                services that are not owned or controlled by Cohby Consult. We
+                services that are not owned or controlled by Cohby Global. We
                 have no control over, and assume no responsibility for, the
                 content, privacy policies, or practices of any third party web
                 sites or services.
@@ -96,7 +96,7 @@ const TermsOfService = () => {
                 6. Limitation of Liability
               </h2>
               <p>
-                In no event shall Cohby Consult, nor its directors, employees,
+                In no event shall Cohby Global, nor its directors, employees,
                 partners, agents, suppliers, or affiliates, be liable for any
                 indirect, incidental, special, consequential or punitive
                 damages, including without limitation, loss of profits, data,
@@ -137,10 +137,10 @@ const TermsOfService = () => {
                 If you have any questions about these Terms, please contact us
                 at:{" "}
                 <a
-                  href="mailto:info@cohbyconsult.com"
+                  href="mailto:info@cohbyglobal.com"
                   className="text-primary hover:underline"
                 >
-                  info@cohbyconsult.com
+                  info@cohbyglobal.com
                 </a>
                 .
               </p>

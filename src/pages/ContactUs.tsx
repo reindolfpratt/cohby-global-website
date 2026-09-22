@@ -52,10 +52,10 @@ const ContactUs = () => {
                   Send us an email and we'll get back to you as soon as possible
                 </p>
                 <a 
-                  href="mailto:info@cohbyconsult.com"
+                  href="mailto:info@cohbyglobal.com"
                   className="inline-flex items-center text-primary hover:text-primary/80 font-semibold transition-colors"
                 >
-                  info@cohbyconsult.com
+                  info@cohbyglobal.com
                 </a>
               </div>
 
