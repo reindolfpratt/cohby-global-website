@@ -36,10 +36,10 @@ const StudyInUSA = () => {
             <div className="mb-16 animate-fade-in">
               <div className="bg-gradient-card rounded-2xl p-8 border border-border shadow-custom-md">
                 <h2 className="text-3xl font-heading font-bold text-foreground mb-4">
-                  Study in the USA with Cohby Consult
+                  Study in the USA with Cohby Global
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  At Cohby Consult, we believe that education transcends borders, and the United States presents an extraordinary canvas for international students to flourish academically and personally. As your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in the USA.
+                  At Cohby Global, we believe that education transcends borders, and the United States presents an extraordinary canvas for international students to flourish academically and personally. As your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in the USA.
                 </p>
               </div>
             </div>
@@ -68,7 +68,7 @@ const StudyInUSA = () => {
                   Discover Tailored Postgraduate Programs
                 </h3>
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  Our approach ensures that you discover the ideal postgraduate program aligned with your aspirations. Whether your interests lie in business, engineering, social sciences, or any other field, American universities offer a diverse array of Master's degree programs. At Cohby Consult, we'll collaborate with you, evaluate your qualifications, and explore suitable options together, ensuring an informed decision.
+                  Our approach ensures that you discover the ideal postgraduate program aligned with your aspirations. Whether your interests lie in business, engineering, social sciences, or any other field, American universities offer a diverse array of Master's degree programs. At Cohby Global, we'll collaborate with you, evaluate your qualifications, and explore suitable options together, ensuring an informed decision.
                 </p>
                 <div className="grid md:grid-cols-2 gap-4">
                   <div className="bg-background rounded-lg p-6 border border-border">
@@ -145,7 +145,7 @@ const StudyInUSA = () => {
                     Ready to Pursue Your American Dream?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Let Cohby Consult be your partner in achieving academic excellence in the USA.
+                    Let Cohby Global be your partner in achieving academic excellence in the USA.
                   </p>
                 <Button 
                   onClick={() => setIsFormOpen(true)}

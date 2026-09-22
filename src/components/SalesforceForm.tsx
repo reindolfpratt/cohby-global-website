@@ -354,7 +354,7 @@ const SalesforceForm = ({ onClose }: { onClose?: () => void }) => {
         style={{ position: "absolute", left: "-9999px" }}
       >
         <input type="hidden" name="oid" value="00DgD000000GzkH" />
-        <input type="hidden" name="retURL" value="https://www.cohbyconsult.com/" />
+        <input type="hidden" name="retURL" value="https://www.cohbyglobal.com/" />
       </form>
 
       <div className="sf-form-container">

@@ -87,7 +87,7 @@ const Footer = () => {
                 <Facebook className="w-5 h-5" />
               </a>
               <a
-                href="https://www.instagram.com/cohby_consult/"
+                href="https://www.instagram.com/cohby_global/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary-foreground/70 hover:text-secondary transition-colors"
@@ -96,7 +96,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/company/cohby-consult/"
+                href="https://www.linkedin.com/company/cohby-global/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary-foreground/70 hover:text-secondary transition-colors"

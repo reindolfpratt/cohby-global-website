@@ -39,7 +39,7 @@ const StudyInAustria = () => {
                   Unveiling Opportunities in the Heart of Europe
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  At Cohby Consult, we believe that education transcends borders, and Austria offers a remarkable platform for international students to thrive academically and personally. As your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in Austria.
+                  At Cohby Global, we believe that education transcends borders, and Austria offers a remarkable platform for international students to thrive academically and personally. As your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in Austria.
                 </p>
               </div>
             </div>
@@ -86,7 +86,7 @@ const StudyInAustria = () => {
               </h2>
               <div className="bg-muted/30 rounded-xl p-8">
                 <p className="text-foreground leading-relaxed mb-6">
-                  Applying to Austrian universities can seem daunting, but fear not! Cohby Consult simplifies the process. From selecting the right program to submitting your application, we'll be with you at every turn. We'll help you compile necessary documents, meet deadlines, and present your best self to admissions committees.
+                  Applying to Austrian universities can seem daunting, but fear not! Cohby Global simplifies the process. From selecting the right program to submitting your application, we'll be with you at every turn. We'll help you compile necessary documents, meet deadlines, and present your best self to admissions committees.
                 </p>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="bg-background rounded-lg p-6 border border-border">
@@ -160,7 +160,7 @@ const StudyInAustria = () => {
                     Ready to Explore Austria?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Begin your Austrian educational journey with Cohby Consult today.
+                    Begin your Austrian educational journey with Cohby Global today.
                   </p>
                   <Button 
                     onClick={() => setIsFormOpen(true)}

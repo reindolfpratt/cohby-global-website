@@ -36,10 +36,10 @@ const StudyInCanada = () => {
             <div className="mb-16 animate-fade-in">
               <div className="bg-gradient-card rounded-2xl p-8 border border-border shadow-custom-md">
                 <h2 className="text-3xl font-heading font-bold text-foreground mb-4">
-                  Study in Canada with Cohby Consult
+                  Study in Canada with Cohby Global
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed mb-4">
-                  As Cohby Consult, your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in Canada.
+                  As Cohby Global, your dedicated educational partner, we are thrilled to guide you through each stage of your journey toward a postgraduate degree in Canada.
                 </p>
                 <p className="text-muted-foreground text-lg leading-relaxed">
                   With over 20 top universities, we are delighted to make your Canadian dream a reality.
@@ -166,7 +166,7 @@ const StudyInCanada = () => {
                     Ready to Make Your Canadian Dream Reality?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Join thousands of international students who have chosen Canada with Cohby Consult.
+                    Join thousands of international students who have chosen Canada with Cohby Global.
                   </p>
                   <Button 
                     onClick={() => setIsFormOpen(true)}

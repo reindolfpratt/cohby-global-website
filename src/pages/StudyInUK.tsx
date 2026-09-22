@@ -36,10 +36,10 @@ const StudyInUK = () => {
             <div className="mb-16 animate-fade-in">
               <div className="bg-gradient-card rounded-2xl p-8 border border-border shadow-custom-md">
                 <h2 className="text-3xl font-heading font-bold text-foreground mb-4">
-                  Study in the UK with Cohby Consult
+                  Study in the UK with Cohby Global
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed mb-4">
-                  At Cohby Consult, we recognize that education is a passport to limitless opportunities. The United Kingdom, home to some of the world's top-ranking universities, beckons international students like you to embark on a transformative postgraduate adventure.
+                  At Cohby Global, we recognize that education is a passport to limitless opportunities. The United Kingdom, home to some of the world's top-ranking universities, beckons international students like you to embark on a transformative postgraduate adventure.
                 </p>
                 <p className="text-muted-foreground text-lg leading-relaxed">
                   Let us assist you with your desired university in England, Scotland, Wales, and Northern Ireland.
@@ -147,7 +147,7 @@ const StudyInUK = () => {
                     Ready to Begin Your UK Journey?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Let Cohby Consult guide you to your dream university in the United Kingdom.
+                    Let Cohby Global guide you to your dream university in the United Kingdom.
                   </p>
                   <Button 
                     onClick={() => setIsFormOpen(true)}

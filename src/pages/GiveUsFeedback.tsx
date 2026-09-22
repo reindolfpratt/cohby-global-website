@@ -19,7 +19,7 @@ export default function GiveUsFeedback() {
             We Value Your Feedback
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Your insights allow us to continually refine our placement and guidance process. Please take a moment to share your experience with Cohby Consult.
+            Your insights allow us to continually refine our placement and guidance process. Please take a moment to share your experience with Cohby Global.
           </p>
         </section>
 

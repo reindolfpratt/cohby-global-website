@@ -36,10 +36,10 @@ const StudyInDenmark = () => {
             <div className="mb-16 animate-fade-in">
               <div className="bg-gradient-card rounded-2xl p-8 border border-border shadow-custom-md">
                 <h2 className="text-3xl font-heading font-bold text-foreground mb-4">
-                  Study in Denmark with Cohby Consult
+                  Study in Denmark with Cohby Global
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  At Cohby Consult, we believe that education transcends borders, and Denmark offers an exceptional opportunity for international students to thrive academically and personally. As your trusted educational partner, we are thrilled to guide you through every step of your journey toward a postgraduate degree in Denmark.
+                  At Cohby Global, we believe that education transcends borders, and Denmark offers an exceptional opportunity for international students to thrive academically and personally. As your trusted educational partner, we are thrilled to guide you through every step of your journey toward a postgraduate degree in Denmark.
                 </p>
               </div>
             </div>
@@ -52,7 +52,7 @@ const StudyInDenmark = () => {
               </h2>
               <div className="bg-muted/30 rounded-xl p-8">
                 <p className="text-foreground leading-relaxed mb-6">
-                  Our approach ensures that you find the perfect postgraduate program to match your aspirations. Whether you're interested in business, engineering, social sciences, or any other field, our selected universities in Denmark offer a diverse range of Master's degree programs. At Cohby Consult, we'll sit down with you, evaluate your credentials and navigate through suited options together, ensuring you make an informed choice.
+                  Our approach ensures that you find the perfect postgraduate program to match your aspirations. Whether you're interested in business, engineering, social sciences, or any other field, our selected universities in Denmark offer a diverse range of Master's degree programs. At Cohby Global, we'll sit down with you, evaluate your credentials and navigate through suited options together, ensuring you make an informed choice.
                 </p>
               </div>
             </div>
@@ -141,7 +141,7 @@ const StudyInDenmark = () => {
                     Ready to Start Your Danish Adventure?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Let Cohby Consult guide you through every step of your journey to studying in Denmark.
+                    Let Cohby Global guide you through every step of your journey to studying in Denmark.
                   </p>
                   <Button 
                     onClick={() => setIsFormOpen(true)}

@@ -150,7 +150,7 @@ const Programs = () => {
                     Important Note
                   </h3>
                   <p className="text-primary-foreground/90 text-center mb-6 max-w-3xl mx-auto">
-                    Remember that specific admission requirements may vary by university and program. We recommend consulting with our advisors at Cohby Consult to get personalized guidance for your specific situation and goals.
+                    Remember that specific admission requirements may vary by university and program. We recommend consulting with our advisors at Cohby Global to get personalized guidance for your specific situation and goals.
                   </p>
                 </div>
               </div>
@@ -163,7 +163,7 @@ const Programs = () => {
                   Ready to Start Your Journey?
                 </h3>
                 <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
-                  Let Cohby Consult help you find the perfect program and guide you through the admission process.
+                  Let Cohby Global help you find the perfect program and guide you through the admission process.
                 </p>
                 <Button 
                   onClick={() => setIsFormOpen(true)}

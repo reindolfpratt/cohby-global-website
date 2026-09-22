@@ -39,7 +39,7 @@ const StudyInFinland = () => {
                   Your Guide to Finnish Education
                 </h2>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  Finland is a land of innovation, natural beauty, and world-class education! Whether you want to pursue a master's degree or a doctoral program, Finland offers a unique and enriching experience and Cohby Consult is here to assist you.
+                  Finland is a land of innovation, natural beauty, and world-class education! Whether you want to pursue a master's degree or a doctoral program, Finland offers a unique and enriching experience and Cohby Global is here to assist you.
                 </p>
               </div>
             </div>
@@ -52,7 +52,7 @@ const StudyInFinland = () => {
               </h2>
               <div className="bg-gradient-card rounded-xl p-8 border border-border">
                 <p className="text-foreground leading-relaxed mb-6">
-                  Our selected educational institutions in Finland provide over <span className="font-heading font-bold text-secondary">250 bachelor's and master's degree programs</span> taught in English. Additionally, there are opportunities for doctoral study and research. Cohby Consult will explore the diverse range of programs with you and find the one that aligns with your interests and career goals.
+                  Our selected educational institutions in Finland provide over <span className="font-heading font-bold text-secondary">250 bachelor's and master's degree programs</span> taught in English. Additionally, there are opportunities for doctoral study and research. Cohby Global will explore the diverse range of programs with you and find the one that aligns with your interests and career goals.
                 </p>
               </div>
             </div>
@@ -151,7 +151,7 @@ const StudyInFinland = () => {
                     Ready to Experience Finland?
                   </h3>
                   <p className="text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
-                    Let Cohby Consult help you transform your aspirations into reality in Finland.
+                    Let Cohby Global help you transform your aspirations into reality in Finland.
                   </p>
                   <Button 
                     onClick={() => setIsFormOpen(true)}
